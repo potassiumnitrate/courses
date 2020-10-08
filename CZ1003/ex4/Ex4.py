@@ -43,8 +43,6 @@ while True:                                                                     
         
             break
         break
-
-
  
 #choose background colour.
     
@@ -68,7 +66,6 @@ while True:                                                                     
                 print("Try again for value between 0 and 255.") 
                 continue
               
-              
             if (0 <= red_bg <= 255) and (0 <= green_bg <= 255) and (0 <= blue_bg <= 255):      #if data is in range
                 break
             else:                                                                              #if data is out of range
@@ -79,8 +76,7 @@ while True:                                                                     
                 if count == 3:
                     print("Number of tries exceeded.")
                     exit("ended")
-                    
-                   
+                       
             #if both msg and bg same       
             if red_msg != red_bg and green_msg != green_bg and blue_msg != blue_bg:            #if msg and bg diff
               break
@@ -96,10 +92,9 @@ while True:                                                                     
             break
         break
     break  
-    
-      
 
-          
+'''
+################## based on int for scroll speed instead of str ###########################################
 #choose scroll speed.
 
 while True:
@@ -111,8 +106,6 @@ while True:
     print("Try again with a value between 0 and 1.")
     continue
 
-
-
 #end
 
 text_colour = (red_msg, green_msg, blue_msg)
@@ -121,3 +114,35 @@ back_colour = (red_bg, green_bg, blue_bg)
 sense.show_message("This is fun!", text_colour = text_colour, \
                                    back_colour = back_colour, \
                                    scroll_speed = scroll_speed1)
+'''
+
+#choose scroll speed.
+
+while True:
+  scroll_speed1 = input("Enter scroll speed: ")
+  try:
+    scroll_speed1 = str(scroll_speed1)                                                       #change scroll_speed1 to float
+    speed1 = 0
+    break
+  except ValueError:                                                                           #to correct ValueError ("fast" is not a float)
+    print("Try again with a value between 0 and 1.")
+    continue
+  if scroll_speed1 == 'slow':
+    speed1 = 0.5
+    break
+  elif scroll_speed1 == 'moderate':
+    speed1 = 0.4
+    break
+  elif scroll_speed1 == 'fast':
+    speed1 = 0.3
+    break
+  break
+
+#end
+
+text_colour = (red_msg, green_msg, blue_msg)
+back_colour = (red_bg, green_bg, blue_bg)
+
+sense.show_message("This is fun!", text_colour = text_colour, \
+                                   back_colour = back_colour, \
+                                   scroll_speed = speed1)
