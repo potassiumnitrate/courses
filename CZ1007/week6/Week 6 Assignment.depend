@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1582515908 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 6 assignment\encodechar.c
+	<stdio.h>
+	<string.h>
+
+1582377173 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 6 assignment\findmiddleage.c
+	<stdio.h>
+
+1582264445 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 6 assignment\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1582520906 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 6 assignment\student.c
+	<stdio.h>
+	<string.h>
+
+1582377173 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 6 assignment\1_findmiddleage.c
+	<stdio.h>
+
+1582515908 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 6 assignment\4_encodechar.c
+	<stdio.h>
+	<string.h>
+
+1584190693 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 6 assignment\5_student.c
+	<stdio.h>
+	<string.h>
+
+1584193496 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 6 assignment\2_complexnumber.c
+	<stdio.h>
+	<math.h>
+
+1584197069 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 6 assignment\3_rectangle.c
+	<stdio.h>
+	<math.h>
+
+1584197683 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 6 assignment\6_customer.c
+	<stdio.h>
+	<string.h>
+
+1584206763 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 6 assignment\7_employee.c
+	<stdio.h>
+	<string.h>
+
