@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1581305794 source:c:\users\berly\downloads\y1s2\cz1007\week 3 assignment\computesalary.c
+	<stdio.h>
+
+1581045492 source:c:\users\berly\downloads\y1s2\cz1007\week 3 assignment\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1581149705 source:c:\users\berly\downloads\y1s2\cz1007\week 3 assignment\power.c
+	<stdio.h>
+
+1581305695 source:c:\users\berly\downloads\y1s2\cz1007\week 3 assignment\allevendigits.c
+	<stdio.h>
+
+1581307952 source:c:\users\berly\downloads\y1s2\cz1007\week 3 assignment\extevendigits.c
+	<stdio.h>
+
+1581305695 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 3 assignment\allevendigits.c
+	<stdio.h>
+
+1581316397 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 3 assignment\extevendigits.c
+	<stdio.h>
+
+1581045492 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 3 assignment\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1581149705 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 3 assignment\power.c
+	<stdio.h>
+
+1583981411 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 3 assignment\2_computesalary.c
+	<stdio.h>
+
+1581305695 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 3 assignment\5_allevendigits.c
+	<stdio.h>
+
+1581149705 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 3 assignment\7_power.c
+	<stdio.h>
+
+1581316397 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 3 assignment\_10_extevendigits.c
+	<stdio.h>
+
+1583981887 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 3 assignment\1_computepay.c
+	<stdio.h>
+
+1583982519 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 3 assignment\3_sumsqdigits.c
+	<stdio.h>
+
+1583983021 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 3 assignment\4_countevendigits.c
+	<stdio.h>
+
+1583984387 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 3 assignment\6_divide.c
+	<stdio.h>
+
+1583985899 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 3 assignment\8_gcd.c
+	<stdio.h>
+
+1583989675 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 3 assignment\9_perfectprod.c
+	<stdio.h>
+
+1584082667 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 3 assignment\_11_reversedigits.c
+	<stdio.h>
+
