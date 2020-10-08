@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1587021562 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 11 assignment\1_createqueuefromlinkedlist.c
+	<stdio.h>
+	<stdlib.h>
+
+1586331707 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 11 assignment\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1587021820 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 11 assignment\2_reversestack.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
+1587023876 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 11 assignment\3_isstackpairwiseconsecutive.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
+1587028956 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 11 assignment\4_poptoqueue.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
