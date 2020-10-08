@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1602186106 source:c:\users\berly\documents\y1s2\cz1007\assignments\week 10\1_moveodditemstoback.c
+	<stdio.h>
+	<stdlib.h>
+
+1602186140 source:c:\users\berly\documents\y1s2\cz1007\assignments\week 10\2_alternatemergelinkedlist.c
+	<stdio.h>
+	<stdlib.h>
+
+1602186165 source:c:\users\berly\documents\y1s2\cz1007\assignments\week 10\3_recursivereverse.c
+	<stdio.h>
+	<stdlib.h>
+
+1602186198 source:c:\users\berly\documents\y1s2\cz1007\assignments\week 10\4_frontbacksplitlinkedlist.c
+	<stdio.h>
+	<stdlib.h>
+
