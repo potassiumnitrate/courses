@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1581921793 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 5 assignment\ciphertext.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
+1581913232 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 5 assignment\locatefirstchar.c
+	<stdio.h>
+	<string.h>
+
+1581917589 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 5 assignment\longwordlength.c
+	<stdio.h>
+	<string.h>
+
+1581911561 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 5 assignment\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1581925781 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 5 assignment\maxchartofront.c
+	<stdio.h>
+	<string.h>
+
+1584172460 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 5 assignment\1_insertchar.c
+	<stdio.h>
+	<string.h>
+
+1581913232 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 5 assignment\2_locatefirstchar.c
+	<stdio.h>
+	<string.h>
+
+1581917589 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 5 assignment\3_longwordlength.c
+	<stdio.h>
+	<string.h>
+
+1581921793 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 5 assignment\5_ciphertext.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
+1584170554 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 5 assignment\7_maxchartofront.c
+	<stdio.h>
+	<string.h>
+
+1584173960 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 5 assignment\4_countwords.c
+	<stdio.h>
+	<string.h>
+
+1584174777 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 5 assignment\6_longeststrinar.c
+	<stdio.h>
+	<string.h>
+
+1584170554 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 5 assignment\8_maxchartofront.c
+	<stdio.h>
+	<string.h>
+
+1584177218 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 5 assignment\7_findminmaxstr.c
+	<stdio.h>
+	<string.h>
+
+1584184617 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 5 assignment\9_strintersect.c
+	<stdio.h>
+
+1584189019 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 5 assignment\_10_findsubstring.c
+	<stdio.h>
+	<string.h>
+
+1591369138 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 5 assignment\_11_countsubstring.c
+	<stdio.h>
+	<string.h>
+
