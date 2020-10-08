@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1581391909 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 4 assignment\absolutesum1d.c
+	<stdio.h>
+	<math.h>
+
+1581342506 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 4 assignment\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1581659173 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 4 assignment\platform1d.c
+	<stdio.h>
+
+1581343359 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 4 assignment\specialnumbers1d.c
+	<stdio.h>
+
+1581659192 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 4 assignment\compress2d.c
+	<stdio.h>
+
+1581435712 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 4 assignment\find2max1d.c
+	<stdio.h>
+
+1581391909 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 4 assignment\1_absolutesum1d.c
+	<stdio.h>
+	<math.h>
+
+1584087415 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 4 assignment\4_specialnumbers1d.c
+	<stdio.h>
+
+1581659173 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 4 assignment\5_platform1d.c
+	<stdio.h>
+
+1584082819 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 4 assignment\_11_compress2d.c
+	<stdio.h>
+
+1584091412 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 4 assignment\2_find2max1d.c
+	<stdio.h>
+
+1584091130 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 4 assignment\3_findminmax1d.c
+	<stdio.h>
+
+1584092109 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 4 assignment\6_swapminmax1d.c
+	<stdio.h>
+
+1584118144 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 4 assignment\7_findaverage2d.c
+	<stdio.h>
+
+1584118496 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 4 assignment\8_computetotal2d.c
+	<stdio.h>
+
+1584122508 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 4 assignment\9_transpose2d.c
+	<stdio.h>
+
+1584122585 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 4 assignment\_10_symmetry2d.c
+	<stdio.h>
+
+1584125434 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 4 assignment\_12_minofmax2d.c
+	<stdio.h>
+
