@@ -58,6 +58,7 @@ void Inc_v1(_int which)
 //2. implement the new version of Dec: Dec_v1
 void Dec_v1(_int which)
 {
+	/* Experiment 3 */
 	//fill your code
 	int a=value;
 	a--;
@@ -136,7 +137,6 @@ void TestValueMinusOne()
 	value=0;
 	printf("enter TestValueMinusOne, value=%d...\n", value);
 
-
 	//fill your code
 	/* Experiment 3 */
 	Thread *inc1 = new Thread("Inc_v2_1");
@@ -168,10 +168,10 @@ void TestValueMinusOne()
 
 //1. Declare any paramters here.
 
+/* Experiment 3 */
 #include "synch.h"
 
 //fill your code
-/* Experiment 3 */
 
 Semaphore *mutex;
 Semaphore *s = new Semaphore("Semaphore_Consistent", 1);
