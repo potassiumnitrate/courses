@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1583079427 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 7 assignment\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1583084883 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 7 assignment\rcountevendigits.c
+	<stdio.h>
+
+1583242501 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 7 assignment\rfindmaxar.c
+	<stdio.h>
+
+1583134349 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 7 assignment\rstrcmp.c
+	<stdio.h>
+	<string.h>
+
+1583082163 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 7 assignment\rpower.c
+	<stdio.h>
+
+1583082163 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 7 assignment\3_rpower.c
+	<stdio.h>
+
+1583084883 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 7 assignment\5_rcountevendigits.c
+	<stdio.h>
+
+1583134349 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 7 assignment\8_rstrcmp.c
+	<stdio.h>
+	<string.h>
+
+1584212245 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 7 assignment\9_rfindmaxar.c
+	<stdio.h>
+
+1584503995 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 7 assignment\1_rage.c
+	<stdio.h>
+
+1584517876 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 7 assignment\2_rgcd.c
+	<stdio.h>
+
+1584517194 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 7 assignment\4_countzeros.c
+	<stdio.h>
+
+1584517237 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 7 assignment\4_rcountzeros.c
+	<stdio.h>
+
+1584518705 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 7 assignment\6_rallevendigits.c
+	<stdio.h>
+
+1584519191 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 7 assignment\7_rstrlen.c
+	<stdio.h>
+	<string.h>
+
+1584520153 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 7 assignment\_10_rlookupar.c
+	<stdio.h>
+
+1584520673 source:c:\users\berly\downloads\y1s2\cz1007\assignments\week 7 assignment\_11_rreversear.c
+	<stdio.h>
+
