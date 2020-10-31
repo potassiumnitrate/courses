@@ -16,7 +16,7 @@ private:
 public:
 	Animal();
 	Animal(string n, COLOR c);
-	~Animal();
+	virtual ~Animal();
 
 	// getters
 	string getName();
@@ -34,7 +34,7 @@ class Mammal : public Animal
 public:
 	Mammal();
 	Mammal(string n, COLOR c);
-	~Mammal();
+	virtual ~Mammal();
 	virtual void speak() const;
 	virtual void eat() const;
 	// 3.2 part 4c: remove const
